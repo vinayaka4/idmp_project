@@ -12,9 +12,11 @@ Methodology
 Early data exploration underscored the dataset's potential for deep sentiment analysis and predictive modeling. Preliminary interactions with the dataset demonstrated its appropriateness for detailed sentiment analysis and accurate rating predictions.
 
 **Sentiment Analysis**
+
 Sentiment Categorization: Used VADER for initial sentiment categorization.
 Text Processing: Applied advanced text processing techniques (tokenization, lemmatization) via NLTK to prepare data for predictive modeling.
 Predictive Modeling
+
 **Model:** Developed a BiLSTM deep learning model using Keras.
 **Objective:** Predict review ratings by understanding the intricacies of textual sentiment.
 Challenge Addressed: Correlating the nuanced sentiment of text data with numerical rating outcomes.
